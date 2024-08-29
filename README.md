@@ -6,7 +6,7 @@ CyberIntel&Extractor is a Python scrypt designed to deliver  cybersecurity intel
 ## Key Features:
 
 - Gemini AI-Powered Extraction: Automatically extracts domains, IP addresses, and file hashes from unstructured text.
-AbuseIPDB Integration: Evaluates the reputation of IP addresses to identify potentially malicious entities, complete with detection confidence.
+- AbuseIPDB Integration: Evaluates the reputation of IP addresses to identify potentially malicious entities, complete with detection confidence.
 - WHOIS Information Retrieval: Gathers comprehensive WHOIS data for domains and IP addresses, including registrar details and registration dates.
 - URLScan Analysis: Queries URLScan for domain analysis and screenshots to assess website behavior and security.
 - AlienVault Threat Intelligence: Enriches threat data with insights from AlienVault OTX, providing additional context to domain-related threats.
@@ -26,7 +26,7 @@ AbuseIPDB Integration: Evaluates the reputation of IP addresses to identify pote
 
 Do you want to check a domain, IP, hash, or generate? Type 'domain', 'ip', 'hash', or 'generate' (or 'exit' to quit): generate
 
-Enter the text for extraction (or type 'exit' to quit): 
+Enter the text for extraction (or type 'exit' to quit): #Below is the text given for extraction 
 lets give some random domain example.com  random IP 198.51.100.150 and random hash 8f14e45fceea167a5a36dedd4bea2543, 
 
 Extracted Data:
