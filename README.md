@@ -1,7 +1,7 @@
 # CyberIntel&Extractor
 
 ## Description:
-This Python script is a comprehensive tool designed to perform various cybersecurity-related tasks, such as querying information about domains, IP addresses, and file hashes using multiple threat intelligence APIs. The script also includes functionality to extract relevant data (like domains, IPs, and hashes) from text input by leveraging Google's Gemini, making it a versatile tool for security analysts.
+This Python script is a comprehensive tool designed to perform various cybersecurity-related tasks, such as querying information about domains, IP addresses, and file hashes using multiple threat intelligence APIs. The script also includes functionality to extract relevant data (like domains, IPs, and hashes) from text input by leveraging Google's Gemini, making it a versatile tool for security analysts.A toolto make cybersecurity analysis more efficient, enabling faster response times and better threat detection.
 
 ## Key Features:
 
