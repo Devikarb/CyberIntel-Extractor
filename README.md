@@ -1,7 +1,7 @@
 # CyberIntel&Extractor
 
 ## Description:
-CyberIntel&Extractor is a Python scrypt designed to deliver  cybersecurity intelligence by extracting and analyzing data such as domains, IP addresses, and file hashes. With Google’s Gemini AI, it automates the process of identifying potential Indicators of Compromise (IOCs) and aggregates threat intelligence from a range of reliable OSINT (Open Source Intelligence) sources, including VirusTotal, AbuseIPDB, Whois, AlienVault OTX, and URLScan.
+This Python script is a comprehensive tool designed to perform various cybersecurity-related tasks, such as querying information about domains, IP addresses, and file hashes using multiple threat intelligence APIs. The script also includes functionality to extract relevant data (like domains, IPs, and hashes) from text input by leveraging Google's Gemini, making it a versatile tool for security analysts.
 
 ## Key Features:
 
