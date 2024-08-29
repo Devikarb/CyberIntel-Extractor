@@ -27,7 +27,7 @@ CyberIntel&Extractor is a Python scrypt designed to deliver  cybersecurity intel
 Do you want to check a domain, IP, hash, or generate? Type 'domain', 'ip', 'hash', or 'generate' (or 'exit' to quit): generate
 
 Enter the text for extraction (or type 'exit' to quit): #Below is the text given for extraction 
-lets give some random domain example.com  random IP 198.51.100.150 and random hash 8f14e45fceea167a5a36dedd4bea2543, 
+"/n lets give some random domain example.com  random IP 198.51.100.150 and random hash 8f14e45fceea167a5a36dedd4bea2543," 
 
 Extracted Data:
 
